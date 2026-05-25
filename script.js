@@ -61,7 +61,7 @@ noBtn.onmouseover = () => {
 
 // Typing love message
 function typeLove() {
-  const msg = "Will you go on a cute lil KULFI date. Just us watching the sunset while you fill the air with your nonstop talks and I listen to them quietly, capturing you smiling in my eyes and feeding you KULFI....DOREMONNN❤️?? ";
+  const msg = "Will you come on a cute lil movie date. Just us watching your favourite movie while you fill the air with your nonstop talks and I listen to them quietly, capturing you smiling in my eyes and feeding you KULFI and dancing on your favourite song together ... DEVANSHI❤️?? ";
   loveText.innerHTML = ""; // reset
   let j=0;
   function t() {
